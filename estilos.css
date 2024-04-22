@@ -5,6 +5,10 @@
 p, h1 { 
     color:rgb(229, 243, 230)  !important; /* va a sobreescribir a todos */
 }
+
+h2{
+    color:aqua;
+}
 #primer-parrafo {
     color:blue; /* va a sobreescribir solo a las clases */
 }                 /* pseudoclases y etiquetas */
